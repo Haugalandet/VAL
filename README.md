@@ -1,15 +1,11 @@
 # VAL
 
 > [!NOTE]
-> This README is may contain incorrect information
+> This README is may contain incorrect information.<br>
+> Metaend (frontend) has not been started yet.<br>
+> RabbitMQ has not been started yet.<br>
 
 ## Repos
-
-> ![NOTE]
-> Metaend (frontend) has not been started yet
-
-> ![NOTE]
-> RabbitMQ has nott been started yet
 
 | Application                                                 |
 | ----------------------------------------------------------- |
