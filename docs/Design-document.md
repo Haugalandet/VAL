@@ -80,6 +80,12 @@ The VAL application enables users to create and participate in polls. Polls can 
     Developed in React
     Allows users to create and vote on polls
     Communicates with the backend for data retrieval and submission
+    Visual design:
+    - colors:
+    #FCDE76
+    #FFAD4F
+    #BFDF8E
+    #F1FEC6
 
 ### Backend
 
