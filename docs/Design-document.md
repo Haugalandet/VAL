@@ -19,7 +19,6 @@
   - [Backend](#backend)
   - [RabbitMQ Application](#rabbitmq-application)
   - [Metaend Backend](#metaend-backend)
-  - [Metaend Frontend](#metaend-frontend)
   - [IOT Application](#iot-application)
 
 - [Functional Requirements](#3-functional-requirements)
@@ -37,7 +36,6 @@
   - [Backend (Spring Boot)](#backend-spring-boot)
   - [RabbitMQ Application (Java)](#rabbitmq-application-java)
   - [Metaend Backend (Rust with Actix)](#metaend-backend-rust-with-actix)
-  - [Metaend Frontend (Haskell)](#metaend-frontend-haskell)
   - [IOT Application (Rust)](#iot-application-rust)
 
 - [Data Schema](#5-data-schema)
@@ -100,11 +98,6 @@ The VAL application enables users to create and participate in polls. Polls can 
     Stores event information received from RabbitMQ in a MongoDB database
     Offers API endpoints for accessing event data
 
-### Metaend Frontend
-
-    Developed in Haskell
-    Displays event information stored in the MongoDB database
-
 ### IOT Application
 
     Written in Rust
@@ -165,10 +158,6 @@ The VAL application enables users to create and participate in polls. Polls can 
     Receive event notifications from RabbitMQ.
     Store event data in a MongoDB database.
     Implement API endpoints for accessing event information.
-
-### Metaend Frontend (Haskell)
-
-    Display event information stored in the MongoDB database.
 
 ### IOT Application (Rust)
 
