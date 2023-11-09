@@ -63,7 +63,7 @@ The VAL application is a web platform designed for creating and voting on polls.
 
 ### Scope
 
-The VAL application consists of multiple parts, including a React-based frontend, a Spring Boot-based backend, a messaging system using RabbitMQ, a metaend backend and frontend, and an IOT device integration. It also allows both public and registered users to participate in polls, and it can interact with external devices for bulk voting.
+The VAL application consists of multiple parts, including a React-based frontend, a Spring Boot-based backend, a messaging system using RabbitMQ, a metaend backend, and an IOT device integration. It also allows both public and registered users to participate in polls, and it can interact with external devices for bulk voting.
 
 ### Target Audience
 
@@ -134,7 +134,6 @@ The VAL application enables users to create and participate in polls. Polls can 
 ### Metadata Display
 
     Metaend stores event data in a MongoDB database.
-    Metaend frontend displays event information to interested parties.
 
 ## 4. Implementation Details
 
@@ -189,7 +188,7 @@ The VAL application enables users to create and participate in polls. Polls can 
 
 ### Password hashing
 
-Passwords are securely hashed in the frontend and backend.
+Passwords are securely hashed in the backend.
 
 ### User authentication
 
