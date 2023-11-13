@@ -148,6 +148,15 @@ The VAL application enables users to create and participate in polls. Polls can 
     Develop the user interface for voting and poll creation.
     Communicate with the backend to retrieve and submit data.
 
+    User should be able to vote on available polls.
+    Look at the result of the poll they voted on.
+    Create a poll.
+    Open a poll, making it available for other users or the public to vote on.
+    Close a poll, making it unavialable for others to vote on.
+    Re-open a poll.
+
+    There should also be a system in place to authenticate a user.
+
 ### Backend (Spring Boot)
 
     Develop API endpoints for user management, poll creation, and voting.
